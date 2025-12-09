@@ -20,8 +20,6 @@ All ROMs are clean, stock, and provided exactly as extracted.
 ## 📥 Download  
 All ROM files can be downloaded from the **Releases** section:
 
-👉 **https://github.com/primespeed-dev/INFINIX-GT-20-PRO-STUFFS/releases**
-
 ---
 
 ## ⚠️ Disclaimer  
